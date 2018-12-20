@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+A very simple ruby in rails application, that it will help in understanding how routes works and communicate with controllers and modules.
